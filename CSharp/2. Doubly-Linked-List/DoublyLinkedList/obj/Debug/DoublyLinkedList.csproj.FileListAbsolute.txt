@@ -1,0 +1,5 @@
+D:\Documents\Software University\open courses\Data-Structures-February-2016\2. Doubly-Linked-List\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\Documents\Software University\open courses\Data-Structures-February-2016\2. Doubly-Linked-List\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\Documents\Software University\open courses\Data-Structures-February-2016\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojResolveAssemblyReference.cache
+D:\Documents\Software University\open courses\Data-Structures-February-2016\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\Documents\Software University\open courses\Data-Structures-February-2016\2. Doubly-Linked-List\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
